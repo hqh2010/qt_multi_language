@@ -1,0 +1,7 @@
+<!DOCTYPE RCC>
+<RCC>
+    <qresource prefix="/">
+        <file>translations/lan_cn.qm</file>
+        <file>translations/lan_en.qm</file>
+    </qresource>
+</RCC>
