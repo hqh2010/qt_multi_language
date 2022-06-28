@@ -15,3 +15,5 @@ Creator菜单栏，选择：工具->外部->Qt语言家->更新翻译（lupdate�
 [https://github.com/ADeRoy/Qt_Demo/]()
 
 https://blog.51cto.com/yang/2894128
+
+https://github.com/mengps/QmlExamples
