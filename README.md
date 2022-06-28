@@ -8,6 +8,8 @@ Qt creator 语言专家支持必须安装sudo apt-get install qttools5-dev-tools
 Creator菜单栏，选择：工具->外部->Qt语言家->更新翻译（lupdate）
 命令行：lupdate qt-multi-lan.pro
 
+Translator_qml.zip 是基于QML qsTr实现的多语言全球化demo
+
 # 参考文档
 
 [https://blog.csdn.net/liang19890820/article/details/50274409]()
